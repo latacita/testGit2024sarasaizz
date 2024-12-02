@@ -8,3 +8,4 @@
 ====== ============================ ================================
 01	clone url 
 04	branch PrimeraRama + checkout PrimeraRama
+11	stash + checkout PrimeraRama

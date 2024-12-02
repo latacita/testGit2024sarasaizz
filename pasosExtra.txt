@@ -1,0 +1,5 @@
+Paso 	Accion			Notas
+22	push origin master	Da error por que no se tiene la ultima version del repositorio
+	pull origin master	Se descarga la ultima version pero se producen conflcitos con lo que hay en local
+	add + commit "Conflictos Resueltos"		Se solucionan los conflictos y se guardan
+	push origin master	finalmente se sube la rama master al repositorio remoto 

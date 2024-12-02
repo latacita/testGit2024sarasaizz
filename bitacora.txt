@@ -9,3 +9,6 @@
 01	clone url 
 04	branch PrimeraRama + checkout PrimeraRama
 06	branch SegundaRama + checkout SegundaRama
+14				La fusion en este momento sería recursiva, ya que en ambas ramas se han creado nuevas versiones del mismo archivo
+15				La fusion de PrimeraRama contra master sería en este momento fast-foward ya que en master no hay nuevas versiones posteriores a 				la creación de la PrimeraRama 
+13	checkout SegundaRama

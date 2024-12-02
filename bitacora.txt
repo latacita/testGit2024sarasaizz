@@ -7,3 +7,4 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
 01	clone url 
+04	branch PrimeraRama + checkout PrimeraRama

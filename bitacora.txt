@@ -7,3 +7,9 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
 01	clone url 
+08	push origin SegundaRama
+09	checkout master
+17	checkout PrimeraRama
+18	merge SegundaRama		Al realizar la fusion se produce error por conflictos en bitacora.txt
+19	checkout master
+20	stash apply
